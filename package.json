@@ -1,0 +1,21 @@
+{
+  "name": "api-test-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "constants.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^5.1.1",
+    "dotenv": "^16.4.5",
+    "mocha": "^10.4.0",
+    "request": "^2.88.2"
+  }
+}
